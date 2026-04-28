@@ -40,7 +40,7 @@ This project is a 2D game developed in **C++ using SFML**, focusing on implement
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/KforKomy/Survival-Uni-Verse.git
    ```
 3. Compile the project using your preferred compiler
 4. Run the executable
